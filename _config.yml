@@ -21,7 +21,7 @@ repository               : "juewu-wj/juewu-wj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github_profile.png"
   name             : "Jue Wu"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Scholar at UC Berkeley"
