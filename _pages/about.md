@@ -11,5 +11,5 @@ I am an incoming assistant professor in Higher Education at the University of Fl
 
 I am currently conducting my postdoctoral research at the [University of California, Berkeley](https://berkeley.edu), working with [Dr. Rodolfo Mendoza-Denton](https://vcresearch.berkeley.edu/faculty/rodolfo-mendoza-denton). Previously, I completed my doctorate in Learning Sciences at [Northwestern University](https://northwestern.edu), under the supervision of [Dr. David Uttal](https://psychology.northwestern.edu/people/faculty/core/profiles/david-uttal.html). I also received a master's degree in Learning Sciences, a master's degree in Statistics, and a Cognitive Science certificate from [Northwestern University](https://northwestern.edu). 
 
-You can find my CV here: [Jue Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jue Wu's Curriculum Vitae](../assets/Wu_CV_24Jun.pdf).
 
