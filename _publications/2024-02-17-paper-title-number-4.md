@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2024-02-17
 venue: 'Science Education'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://juewu-wj.github.io/files/paper3.pdf'
 citation: 'Wu, J., & Uttal, D. H. (2024). Diversifying computer science: An examination of the potential influences of women‐in‐computing groups. Science Education, 108(3), 957-980.'
 ---
 
