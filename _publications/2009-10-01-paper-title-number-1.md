@@ -2,10 +2,8 @@
 title: "Investigating students’ learning through co-designing with technology"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal of Science Education and Technology'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Wu, J., Atit, K., Ramey, K. E., Flanagan-Hall, G. A., Vondracek, M., Jona, K., & Uttal, D. H. (2021). Investigating students’ learning through co-designing with technology. Journal of Science Education and Technology, 30(4), 529-538.'
 ---
