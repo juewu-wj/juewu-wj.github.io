@@ -8,4 +8,4 @@ paperurl: 'http://juewu-wj.github.io/files/paper1.pdf'
 citation: 'Wu, J., & Uttal, D. H. (2020). Beyond the leaky pipeline: Developmental pathways that lead college students to join or return to STEM majors. Journal of Research in STEM Education, 6(2), 64-90.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
