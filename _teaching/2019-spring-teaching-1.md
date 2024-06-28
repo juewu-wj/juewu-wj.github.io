@@ -1,10 +1,10 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Northwestern University, School of Education and Social Policy"
+date: 2019-01-01
 location: "City, Country"
 ---
 
