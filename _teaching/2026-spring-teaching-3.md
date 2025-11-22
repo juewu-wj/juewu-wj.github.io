@@ -1,7 +1,7 @@
 ---
-title: "EDH 7645: Quantitative Analysis in Higher Ed"
+title: "EDH 7645: Data Management and Quantitative Workflow in Education Research"
 collection: teaching
-type: "PhD Course"
+type: "Graduate Course"
 permalink: /teaching/edh-7645
 venue: "University of Florida"
 date: 2025-01-01
