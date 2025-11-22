@@ -8,4 +8,4 @@ date: 2025-01-01
 location: "Gainesville, FL"
 ---
 
-## [👉 Click here to visit the Course Website](/7645/)
+## [👉 Click here to visit the EDH7645 Course Website](/7645/)
