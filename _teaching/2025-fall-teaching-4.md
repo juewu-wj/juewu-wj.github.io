@@ -2,7 +2,7 @@
 title: "Contemporary Research in Higher Education"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2025-sfall-teaching-4
+permalink: /teaching/2025-fall-edh7916
 venue: "University of Florida, School of Human Development and Organizational Studies in Education"
 date: 2025-01-01
 location: "City, Country"
