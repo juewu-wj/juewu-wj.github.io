@@ -1,5 +1,5 @@
 ---
-title: "Contemporary Research in Higher Education"
+title: "EDH 7916: Contemporary Research in Higher Education"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2025-fall-edh7916
