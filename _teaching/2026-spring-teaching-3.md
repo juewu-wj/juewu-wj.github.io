@@ -3,7 +3,7 @@ title: "EDH 7645: Data Management and Quantitative Workflow in Education Researc
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/edh-7645
-venue: "University of Florida"
+venue: "University of Florida, School of Human Development and Organizational Studies in Education"
 date: 2025-01-01
 location: "Gainesville, FL"
 ---
